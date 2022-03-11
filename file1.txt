@@ -1,7 +1,9 @@
 hello aashish
 
-added to staging
+added to staging.
 
-change for diff
+change for diff.
 
-change for bug1
+change for bug1.
+
+change for bug2: 3-way merging with conflict.
