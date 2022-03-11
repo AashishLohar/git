@@ -1,7 +1,9 @@
 hello aashish
 
-added to staging
+Change added to staging
 
 change for diff
 
 change for bug1
+
+change for WI4 by team mate , 3-way merge with conflict
