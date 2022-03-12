@@ -12,7 +12,7 @@ change for bug2: 3-way merging with conflict.
 
 change for WI5 by team mate to check rebase with conflict.
 
-Change for CR1 rebase with conflict on remote master updated for CR2.
+Change for CR1 rebase with conflict, on remote master updated for CR2 and Change on local master for bug4..
 
 change for WI6 for stash work in progress or half done.
 
